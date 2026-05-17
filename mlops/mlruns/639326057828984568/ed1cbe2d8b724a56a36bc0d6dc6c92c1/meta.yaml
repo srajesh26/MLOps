@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/ed1cbe2d8b724a56a36bc0d6dc6c92c1/artifacts
+end_time: 1778997991515
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: ed1cbe2d8b724a56a36bc0d6dc6c92c1
+run_name: luminous-gnat-286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997991186
+status: 3
+tags: []
+user_id: root

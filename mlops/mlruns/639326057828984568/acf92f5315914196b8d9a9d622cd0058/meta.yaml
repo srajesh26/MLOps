@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/acf92f5315914196b8d9a9d622cd0058/artifacts
+end_time: 1778997674314
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: acf92f5315914196b8d9a9d622cd0058
+run_name: rumbling-jay-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997674000
+status: 3
+tags: []
+user_id: root

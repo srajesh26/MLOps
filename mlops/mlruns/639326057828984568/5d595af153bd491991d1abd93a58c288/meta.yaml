@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/5d595af153bd491991d1abd93a58c288/artifacts
+end_time: 1778997672764
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 5d595af153bd491991d1abd93a58c288
+run_name: hilarious-stag-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997672462
+status: 3
+tags: []
+user_id: root

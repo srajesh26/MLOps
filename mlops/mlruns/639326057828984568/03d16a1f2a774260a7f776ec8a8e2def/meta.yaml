@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/03d16a1f2a774260a7f776ec8a8e2def/artifacts
+end_time: 1778997655399
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 03d16a1f2a774260a7f776ec8a8e2def
+run_name: righteous-sow-606
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997655102
+status: 3
+tags: []
+user_id: root

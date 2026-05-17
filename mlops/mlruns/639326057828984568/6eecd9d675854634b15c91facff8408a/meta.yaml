@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/6eecd9d675854634b15c91facff8408a/artifacts
+end_time: 1778998020824
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 6eecd9d675854634b15c91facff8408a
+run_name: salty-finch-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998020496
+status: 3
+tags: []
+user_id: root

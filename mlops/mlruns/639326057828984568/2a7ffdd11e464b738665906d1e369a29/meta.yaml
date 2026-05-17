@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/2a7ffdd11e464b738665906d1e369a29/artifacts
+end_time: 1778997656161
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 2a7ffdd11e464b738665906d1e369a29
+run_name: able-jay-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997655856
+status: 3
+tags: []
+user_id: root

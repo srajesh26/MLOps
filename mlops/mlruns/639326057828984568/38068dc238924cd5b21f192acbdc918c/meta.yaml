@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/38068dc238924cd5b21f192acbdc918c/artifacts
+end_time: 1778997997283
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 38068dc238924cd5b21f192acbdc918c
+run_name: intrigued-shrike-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997996977
+status: 3
+tags: []
+user_id: root

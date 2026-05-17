@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/edc8447c40854d3c98f74aa4c4038bf7/artifacts
+end_time: 1778997679018
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: edc8447c40854d3c98f74aa4c4038bf7
+run_name: colorful-yak-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997678723
+status: 3
+tags: []
+user_id: root

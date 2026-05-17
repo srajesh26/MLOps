@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/72de953224134feb87f2b4573c3a985d/artifacts
+end_time: 1778998017706
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 72de953224134feb87f2b4573c3a985d
+run_name: adaptable-bat-4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998017400
+status: 3
+tags: []
+user_id: root

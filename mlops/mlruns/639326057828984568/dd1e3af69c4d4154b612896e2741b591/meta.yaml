@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/dd1e3af69c4d4154b612896e2741b591/artifacts
+end_time: 1778997686790
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: dd1e3af69c4d4154b612896e2741b591
+run_name: rumbling-bat-713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997686321
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/032768862f6446d88d35a6726c495e55/artifacts
+end_time: 1778997987523
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 032768862f6446d88d35a6726c495e55
+run_name: dashing-donkey-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997987220
+status: 3
+tags: []
+user_id: root

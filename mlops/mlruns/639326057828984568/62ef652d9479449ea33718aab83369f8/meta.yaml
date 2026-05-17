@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/62ef652d9479449ea33718aab83369f8/artifacts
+end_time: 1778997998043
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 62ef652d9479449ea33718aab83369f8
+run_name: bouncy-bear-164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997997739
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/28913876648d419e8af89c965623daf8/artifacts
+end_time: 1778997665146
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 28913876648d419e8af89c965623daf8
+run_name: valuable-midge-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997664830
+status: 3
+tags: []
+user_id: root

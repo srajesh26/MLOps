@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/e83c778ab5144b6299e89bdc53006412/artifacts
+end_time: 1778998002974
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: e83c778ab5144b6299e89bdc53006412
+run_name: handsome-gnu-438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998002523
+status: 3
+tags: []
+user_id: root

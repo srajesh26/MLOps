@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/9239116ab2c847e49bfe56d90d9a0dea/artifacts
+end_time: 1778997998804
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 9239116ab2c847e49bfe56d90d9a0dea
+run_name: receptive-crab-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997998499
+status: 3
+tags: []
+user_id: root

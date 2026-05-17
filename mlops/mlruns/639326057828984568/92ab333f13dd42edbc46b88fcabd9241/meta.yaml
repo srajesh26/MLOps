@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/92ab333f13dd42edbc46b88fcabd9241/artifacts
+end_time: 1778998018470
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 92ab333f13dd42edbc46b88fcabd9241
+run_name: exultant-mule-96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998018164
+status: 3
+tags: []
+user_id: root

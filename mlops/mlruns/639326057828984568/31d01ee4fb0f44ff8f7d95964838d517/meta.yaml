@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/31d01ee4fb0f44ff8f7d95964838d517/artifacts
+end_time: 1778997688471
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 31d01ee4fb0f44ff8f7d95964838d517
+run_name: sassy-bug-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997688173
+status: 3
+tags: []
+user_id: root

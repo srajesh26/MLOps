@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/bb1be2bd98074046897aff4febe9b29c/artifacts
+end_time: 1778998021247
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: bb1be2bd98074046897aff4febe9b29c
+run_name: polite-lamb-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998020906
+status: 3
+tags: []
+user_id: root

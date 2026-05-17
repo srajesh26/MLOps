@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/7e1bbd209a444a79b5dc1014ad2bf403/artifacts
+end_time: 1778997659537
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 7e1bbd209a444a79b5dc1014ad2bf403
+run_name: treasured-quail-877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997659240
+status: 3
+tags: []
+user_id: root

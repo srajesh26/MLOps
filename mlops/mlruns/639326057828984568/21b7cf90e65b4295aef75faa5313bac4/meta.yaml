@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/21b7cf90e65b4295aef75faa5313bac4/artifacts
+end_time: 1778998010825
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 21b7cf90e65b4295aef75faa5313bac4
+run_name: clean-hen-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998010528
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/0c3da7dc25004e068ccec4d1887bdca2/artifacts
+end_time: 1778997680220
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 0c3da7dc25004e068ccec4d1887bdca2
+run_name: intrigued-lark-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997679902
+status: 3
+tags: []
+user_id: root

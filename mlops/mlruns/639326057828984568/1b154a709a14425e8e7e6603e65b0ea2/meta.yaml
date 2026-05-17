@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/1b154a709a14425e8e7e6603e65b0ea2/artifacts
+end_time: 1778997989449
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 1b154a709a14425e8e7e6603e65b0ea2
+run_name: loud-deer-229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997989124
+status: 3
+tags: []
+user_id: root

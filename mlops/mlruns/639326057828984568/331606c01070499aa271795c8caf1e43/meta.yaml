@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/331606c01070499aa271795c8caf1e43/artifacts
+end_time: 1778997660665
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 331606c01070499aa271795c8caf1e43
+run_name: intrigued-bug-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997660367
+status: 3
+tags: []
+user_id: root

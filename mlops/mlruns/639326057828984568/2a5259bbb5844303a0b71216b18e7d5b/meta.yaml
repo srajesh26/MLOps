@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/2a5259bbb5844303a0b71216b18e7d5b/artifacts
+end_time: 1778998012725
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 2a5259bbb5844303a0b71216b18e7d5b
+run_name: rumbling-stag-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998012425
+status: 3
+tags: []
+user_id: root

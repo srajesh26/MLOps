@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/c8a47d50c0004599bc694c3846ad3b42/artifacts
+end_time: 1778997677900
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: c8a47d50c0004599bc694c3846ad3b42
+run_name: unequaled-chimp-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997677570
+status: 3
+tags: []
+user_id: root

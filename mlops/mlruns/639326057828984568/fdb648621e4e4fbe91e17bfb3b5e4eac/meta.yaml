@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/fdb648621e4e4fbe91e17bfb3b5e4eac/artifacts
+end_time: 1778998023795
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: fdb648621e4e4fbe91e17bfb3b5e4eac
+run_name: welcoming-frog-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998023457
+status: 3
+tags: []
+user_id: root

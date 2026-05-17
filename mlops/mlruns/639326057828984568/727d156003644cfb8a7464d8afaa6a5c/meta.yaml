@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/727d156003644cfb8a7464d8afaa6a5c/artifacts
+end_time: 1778997662715
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 727d156003644cfb8a7464d8afaa6a5c
+run_name: placid-crow-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997662416
+status: 3
+tags: []
+user_id: root

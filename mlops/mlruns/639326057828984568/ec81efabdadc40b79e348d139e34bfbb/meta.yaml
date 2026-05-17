@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/ec81efabdadc40b79e348d139e34bfbb/artifacts
+end_time: 1778998016940
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: ec81efabdadc40b79e348d139e34bfbb
+run_name: sincere-sow-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998016625
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/9f77d6c40e1a41b5bf840f5dca2ed412/artifacts
+end_time: 1778997657661
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 9f77d6c40e1a41b5bf840f5dca2ed412
+run_name: tasteful-bee-238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997657367
+status: 3
+tags: []
+user_id: root

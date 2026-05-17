@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/17324948df8741be9bfe106fdd8e50e8/artifacts
+end_time: 1778998009196
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 17324948df8741be9bfe106fdd8e50e8
+run_name: vaunted-frog-875
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998008681
+status: 3
+tags: []
+user_id: root

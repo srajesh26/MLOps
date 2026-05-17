@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/78d908cf7f204e35b2bddb4889144342/artifacts
+end_time: 1778997996145
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 78d908cf7f204e35b2bddb4889144342
+run_name: overjoyed-gnat-756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997995843
+status: 3
+tags: []
+user_id: root

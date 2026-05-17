@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/dc01b5df05a24e6085b80d9a0df77d22/artifacts
+end_time: 1778998008558
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: dc01b5df05a24e6085b80d9a0df77d22
+run_name: receptive-fowl-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998008049
+status: 3
+tags: []
+user_id: root

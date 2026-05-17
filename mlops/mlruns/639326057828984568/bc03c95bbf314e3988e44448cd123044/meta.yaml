@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/bc03c95bbf314e3988e44448cd123044/artifacts
+end_time: 1778998022946
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: bc03c95bbf314e3988e44448cd123044
+run_name: skittish-stork-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998022611
+status: 3
+tags: []
+user_id: root

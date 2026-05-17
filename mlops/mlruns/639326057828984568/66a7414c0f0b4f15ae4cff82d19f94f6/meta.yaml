@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/66a7414c0f0b4f15ae4cff82d19f94f6/artifacts
+end_time: 1778998025925
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 66a7414c0f0b4f15ae4cff82d19f94f6
+run_name: funny-bear-6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998025588
+status: 3
+tags: []
+user_id: root

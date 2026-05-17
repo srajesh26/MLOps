@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/2c6b21307b8f47c698c0ab8e046cb89e/artifacts
+end_time: 1778997679413
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 2c6b21307b8f47c698c0ab8e046cb89e
+run_name: delicate-mole-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997679094
+status: 3
+tags: []
+user_id: root

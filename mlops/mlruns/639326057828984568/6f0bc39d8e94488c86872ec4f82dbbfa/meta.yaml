@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/6f0bc39d8e94488c86872ec4f82dbbfa/artifacts
+end_time: 1778997995006
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 6f0bc39d8e94488c86872ec4f82dbbfa
+run_name: mysterious-bat-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997994705
+status: 3
+tags: []
+user_id: root

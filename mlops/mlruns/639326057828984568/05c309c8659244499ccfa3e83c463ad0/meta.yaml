@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/05c309c8659244499ccfa3e83c463ad0/artifacts
+end_time: 1778998022527
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 05c309c8659244499ccfa3e83c463ad0
+run_name: marvelous-zebra-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998022186
+status: 3
+tags: []
+user_id: root

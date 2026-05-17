@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/bd4dbedf15d44553a176a660a3303257/artifacts
+end_time: 1778998025496
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: bd4dbedf15d44553a176a660a3303257
+run_name: nebulous-yak-180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998025161
+status: 3
+tags: []
+user_id: root

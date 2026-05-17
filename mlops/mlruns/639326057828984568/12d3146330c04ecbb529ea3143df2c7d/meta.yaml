@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/12d3146330c04ecbb529ea3143df2c7d/artifacts
+end_time: 1778998016550
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 12d3146330c04ecbb529ea3143df2c7d
+run_name: gregarious-cub-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998016246
+status: 3
+tags: []
+user_id: root

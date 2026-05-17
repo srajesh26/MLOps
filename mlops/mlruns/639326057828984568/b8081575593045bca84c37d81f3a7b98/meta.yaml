@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/b8081575593045bca84c37d81f3a7b98/artifacts
+end_time: 1778998018855
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: b8081575593045bca84c37d81f3a7b98
+run_name: adventurous-cod-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998018547
+status: 3
+tags: []
+user_id: root

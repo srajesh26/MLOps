@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/aecb8847abc34b9a9d7ac08873372f13/artifacts
+end_time: 1778997656535
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: aecb8847abc34b9a9d7ac08873372f13
+run_name: funny-ant-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997656236
+status: 3
+tags: []
+user_id: root

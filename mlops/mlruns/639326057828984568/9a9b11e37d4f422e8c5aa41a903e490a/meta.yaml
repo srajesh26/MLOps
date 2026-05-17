@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/9a9b11e37d4f422e8c5aa41a903e490a/artifacts
+end_time: 1778998015400
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 9a9b11e37d4f422e8c5aa41a903e490a
+run_name: ambitious-calf-725
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998015085
+status: 3
+tags: []
+user_id: root

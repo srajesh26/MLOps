@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/50cb602661d0446cb8ee45b546a96f32/artifacts
+end_time: 1778997680619
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 50cb602661d0446cb8ee45b546a96f32
+run_name: youthful-foal-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997680300
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/b5fe92a7f2e9494e9064f90b1c996496/artifacts
+end_time: 1778997987902
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: b5fe92a7f2e9494e9064f90b1c996496
+run_name: bustling-sow-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997987600
+status: 3
+tags: []
+user_id: root

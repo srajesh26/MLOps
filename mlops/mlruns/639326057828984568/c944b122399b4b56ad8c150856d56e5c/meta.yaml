@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/c944b122399b4b56ad8c150856d56e5c/artifacts
+end_time: 1778997681436
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: c944b122399b4b56ad8c150856d56e5c
+run_name: upset-mouse-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997681108
+status: 3
+tags: []
+user_id: root

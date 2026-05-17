@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/d0c74d6cada54006bacbefe9fcfa0486/artifacts
+end_time: 1778997990270
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: d0c74d6cada54006bacbefe9fcfa0486
+run_name: overjoyed-ray-203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997989947
+status: 3
+tags: []
+user_id: root

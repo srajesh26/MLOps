@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/dc891e9f3d444fb28195f7cfce12686b/artifacts
+end_time: 1778997665556
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: dc891e9f3d444fb28195f7cfce12686b
+run_name: grandiose-pig-448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997665228
+status: 3
+tags: []
+user_id: root

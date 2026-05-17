@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/228ea8ff28cf47faa2fe0715b217b2a6/artifacts
+end_time: 1778997990683
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 228ea8ff28cf47faa2fe0715b217b2a6
+run_name: luminous-doe-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997990359
+status: 3
+tags: []
+user_id: root

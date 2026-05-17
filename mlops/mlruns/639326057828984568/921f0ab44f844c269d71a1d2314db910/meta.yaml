@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/921f0ab44f844c269d71a1d2314db910/artifacts
+end_time: 1778998013104
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 921f0ab44f844c269d71a1d2314db910
+run_name: entertaining-auk-842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998012802
+status: 3
+tags: []
+user_id: root

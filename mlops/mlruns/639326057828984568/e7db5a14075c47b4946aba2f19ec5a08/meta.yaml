@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/e7db5a14075c47b4946aba2f19ec5a08/artifacts
+end_time: 1778997664378
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: e7db5a14075c47b4946aba2f19ec5a08
+run_name: suave-penguin-798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997663997
+status: 3
+tags: []
+user_id: root

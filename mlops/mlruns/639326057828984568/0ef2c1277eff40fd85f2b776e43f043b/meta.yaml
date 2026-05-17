@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/0ef2c1277eff40fd85f2b776e43f043b/artifacts
+end_time: 1778998001861
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 0ef2c1277eff40fd85f2b776e43f043b
+run_name: enthused-perch-299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998001420
+status: 3
+tags: []
+user_id: root

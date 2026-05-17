@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/28fd9e70521a423d8d430fbe0ddc60bf/artifacts
+end_time: 1778998025080
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 28fd9e70521a423d8d430fbe0ddc60bf
+run_name: powerful-whale-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998024744
+status: 3
+tags: []
+user_id: root

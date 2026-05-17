@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/cea8575cca6147178707979d98568297/artifacts
+end_time: 1778997670885
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: cea8575cca6147178707979d98568297
+run_name: redolent-mouse-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997670584
+status: 3
+tags: []
+user_id: root

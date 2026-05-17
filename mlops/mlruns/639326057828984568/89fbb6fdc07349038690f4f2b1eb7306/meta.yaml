@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/89fbb6fdc07349038690f4f2b1eb7306/artifacts
+end_time: 1778998007918
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 89fbb6fdc07349038690f4f2b1eb7306
+run_name: bold-asp-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998007399
+status: 3
+tags: []
+user_id: root

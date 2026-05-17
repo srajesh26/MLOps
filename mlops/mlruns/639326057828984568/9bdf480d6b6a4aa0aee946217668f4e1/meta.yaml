@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/9bdf480d6b6a4aa0aee946217668f4e1/artifacts
+end_time: 1778998022103
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 9bdf480d6b6a4aa0aee946217668f4e1
+run_name: overjoyed-moth-487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998021770
+status: 3
+tags: []
+user_id: root

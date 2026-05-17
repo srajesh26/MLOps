@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/e8145cccc3974941a69d81e3d7e217be/artifacts
+end_time: 1778997668470
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: e8145cccc3974941a69d81e3d7e217be
+run_name: sneaky-crane-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997668142
+status: 3
+tags: []
+user_id: root

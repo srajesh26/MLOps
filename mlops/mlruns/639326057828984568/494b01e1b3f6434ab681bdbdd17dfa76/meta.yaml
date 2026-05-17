@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/494b01e1b3f6434ab681bdbdd17dfa76/artifacts
+end_time: 1778997672387
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 494b01e1b3f6434ab681bdbdd17dfa76
+run_name: lyrical-vole-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997672090
+status: 3
+tags: []
+user_id: root

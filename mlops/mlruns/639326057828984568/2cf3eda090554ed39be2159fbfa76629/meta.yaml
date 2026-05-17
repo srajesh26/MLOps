@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/2cf3eda090554ed39be2159fbfa76629/artifacts
+end_time: 1778997654202
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 2cf3eda090554ed39be2159fbfa76629
+run_name: melodic-conch-878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997653874
+status: 3
+tags: []
+user_id: root

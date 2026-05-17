@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/028de54a5b794523b4e562f56f4fb6e6/artifacts
+end_time: 1778998020410
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 028de54a5b794523b4e562f56f4fb6e6
+run_name: painted-bird-752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998020083
+status: 3
+tags: []
+user_id: root

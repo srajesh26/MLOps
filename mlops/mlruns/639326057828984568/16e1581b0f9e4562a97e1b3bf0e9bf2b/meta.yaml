@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/16e1581b0f9e4562a97e1b3bf0e9bf2b/artifacts
+end_time: 1778997673918
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 16e1581b0f9e4562a97e1b3bf0e9bf2b
+run_name: learned-stork-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997673591
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/6db4b7cf89d74d2b9c9b3c1c5473e0d5/artifacts
+end_time: 1778997683889
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 6db4b7cf89d74d2b9c9b3c1c5473e0d5
+run_name: overjoyed-dog-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997683558
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/b8b4cff8f78548ca85d7bdfaa67eefa4/artifacts
+end_time: 1778997660292
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: b8b4cff8f78548ca85d7bdfaa67eefa4
+run_name: adventurous-crow-152
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997659986
+status: 3
+tags: []
+user_id: root

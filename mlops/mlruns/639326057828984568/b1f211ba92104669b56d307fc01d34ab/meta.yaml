@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/b1f211ba92104669b56d307fc01d34ab/artifacts
+end_time: 1778997678646
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: b1f211ba92104669b56d307fc01d34ab
+run_name: luxuriant-kit-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997678348
+status: 3
+tags: []
+user_id: root

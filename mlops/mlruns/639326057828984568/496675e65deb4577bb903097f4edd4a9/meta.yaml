@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/496675e65deb4577bb903097f4edd4a9/artifacts
+end_time: 1778997993875
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 496675e65deb4577bb903097f4edd4a9
+run_name: legendary-moose-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997993576
+status: 3
+tags: []
+user_id: root

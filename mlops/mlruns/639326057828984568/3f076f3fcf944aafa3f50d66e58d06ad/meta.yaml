@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/3f076f3fcf944aafa3f50d66e58d06ad/artifacts
+end_time: 1778997665952
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 3f076f3fcf944aafa3f50d66e58d06ad
+run_name: dashing-smelt-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997665635
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/3a29c48de44841cd936968c502785de5/artifacts
+end_time: 1778997684699
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 3a29c48de44841cd936968c502785de5
+run_name: unruly-cod-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997684374
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/895c27369fdd4566913c9223b44fc5b3/artifacts
+end_time: 1778998016168
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 895c27369fdd4566913c9223b44fc5b3
+run_name: melodic-sheep-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998015861
+status: 3
+tags: []
+user_id: root

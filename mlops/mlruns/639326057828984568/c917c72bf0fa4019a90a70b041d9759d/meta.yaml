@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/c917c72bf0fa4019a90a70b041d9759d/artifacts
+end_time: 1778997995394
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: c917c72bf0fa4019a90a70b041d9759d
+run_name: thundering-mole-855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997995084
+status: 3
+tags: []
+user_id: root

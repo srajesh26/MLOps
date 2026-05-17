@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/69f7a828f1794d6980d260bd90c584e7/artifacts
+end_time: 1778997987144
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 69f7a828f1794d6980d260bd90c584e7
+run_name: redolent-steed-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997986842
+status: 3
+tags: []
+user_id: root

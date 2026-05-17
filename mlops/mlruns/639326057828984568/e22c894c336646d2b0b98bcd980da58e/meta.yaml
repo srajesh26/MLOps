@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/e22c894c336646d2b0b98bcd980da58e/artifacts
+end_time: 1778997986378
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: e22c894c336646d2b0b98bcd980da58e
+run_name: delightful-flea-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997986071
+status: 3
+tags: []
+user_id: root

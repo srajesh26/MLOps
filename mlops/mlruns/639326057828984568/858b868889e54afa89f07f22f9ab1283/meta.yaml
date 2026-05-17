@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/858b868889e54afa89f07f22f9ab1283/artifacts
+end_time: 1778998027425
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 858b868889e54afa89f07f22f9ab1283
+run_name: suave-bass-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997941410
+status: 3
+tags: []
+user_id: root

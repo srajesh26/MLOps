@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/5a6190b9663348b88057056b7016c29d/artifacts
+end_time: 1778998024223
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 5a6190b9663348b88057056b7016c29d
+run_name: efficient-swan-872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778998023883
+status: 3
+tags: []
+user_id: root

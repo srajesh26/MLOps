@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/639326057828984568/68eafa74618f4422add2d49b9ed24dbd/artifacts
+end_time: 1778997998423
+entry_point_name: ''
+experiment_id: '639326057828984568'
+lifecycle_stage: active
+run_id: 68eafa74618f4422add2d49b9ed24dbd
+run_name: clumsy-donkey-34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778997998121
+status: 3
+tags: []
+user_id: root
